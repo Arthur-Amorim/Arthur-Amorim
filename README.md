@@ -1,4 +1,4 @@
-<h1> Olá! Eu sou Arthur  </h1>
+<h1> Olá! Eu sou Arthur - Estudante de Engenharia Mecânica ⚙🔥  </h1>
 
 <div>
 <a href="https://github.com/Arthur-Amorim">
@@ -25,15 +25,9 @@
   <a href=https://www.linkedin.com/in/arthur-henrique-leite-amorim-818779192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<!--
-Here are some ideas to get you started:
+<br>
+- ⚙ Atualmente estou estudando Engenharia Mecânica;<br>
+- 🎇 Gosto bastante de trabalhar com programas de simulações, algoritmos e modelagem 3D;<br>
+- 🚀 Machine Learning e modelos preditivos são áreas da programação que me despertam interesse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
