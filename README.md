@@ -1,7 +1,14 @@
 Olá! Eu sou Arthur Amorim!
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Amorim&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=Arthur-Amorim&show_icons=true&theme=radical)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
+![Arthur's GitHub stats]()
+https://github-readme-stats.vercel.app/api?username=Arthur-Amorim&show_icons=true&theme=radical
 
 <!--
 Here are some ideas to get you started:
