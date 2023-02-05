@@ -1,7 +1,7 @@
 Olá! Eu sou Arthur Amorim!
 
 <a href="https://github.com/Arthur-Amorim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur-Amorim&repo=github-readme-stats" />
+  ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Amorim&show_icons=true&theme=radical)
 </a>
 <a href="https://github.com/Arthur-Amorim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur-Amorim&repo=convoychat" />
