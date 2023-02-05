@@ -1,8 +1,14 @@
-### Hi there 👋
+Olá! Eu sou Arthur Amorim!
+
+<a href="https://github.com/Arthur-Amorim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur-Amorim&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Arthur-Amorim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur-Amorim&repo=convoychat" />
+</a>
+
 
 <!--
-**Arthur-Amorim/Arthur-Amorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
