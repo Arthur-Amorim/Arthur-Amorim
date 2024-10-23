@@ -26,7 +26,7 @@
 </div>
 
 <br>
-- ⚙ Atual estudante de Engenharia Mecânica;<br>
+- ⚙ Fim da graduação em Engenharia Mecânica;<br>
 - 🎇 Gosto bastante de trabalhar com programas de modelagem 3D, simulações e métodos numéricos;<br>
 - 🚀 Machine Learning, CAE e CFD são áreas da programação que me despertam interesse
 
