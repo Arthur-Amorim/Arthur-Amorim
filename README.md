@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/Arthur-Amorim">
   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur-Amorim&show_icons=true&theme=merko"/>
-  <img height=140em align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&layout=pie)(https://github.com/Arthur-Amorim/github-readme-stats)"/>
+  <img height=140em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&layout=pie"/>
 </div>
   
 <div style="display: inline_block"><br>
