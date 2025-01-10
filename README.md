@@ -3,8 +3,10 @@
 <div>
 <a href="https://github.com/Arthur-Amorim">
   <!img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur-Amorim&show_icons=true&theme=merko"/>
-  <img height=140em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&layout=compact&theme=merko"/>
+  <!img height=140em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&layout=compact&theme=merko"/>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&hide_progress=true)
   
 <div style="display: inline_block"><br>
   <img align="left" alt="Arthur-Js" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
