@@ -1,22 +1,16 @@
 <h1> Olá! Eu sou Arthur - Estudante de Engenharia Mecânica ⚙🔥  </h1>
 
 <div>
-<a href="https://github.com/Arthur-Amorim">
-  <!img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur-Amorim&show_icons=true&theme=merko"/>
-  <!img height=140em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&layout=compact&theme=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Amorim&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&layout=compact&theme=radical" height="150">
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&layout=compact&theme=radical)
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="left" alt="Arthur-Js" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="left" alt="Arthur-Ml" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
   <img align="left" alt="Arthur-Js" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="left" alt="Arthur-Js" height=20 src="https://www.solidworks.com//sites/default/files/2018-02/SWlogo33.svg"/>
   <img align="left" alt="Arthur-Js" height=30 src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/autocad-2017-badge-75x75.png"/>
-
- 
-
 </div>
   
 ##
