@@ -6,7 +6,7 @@
   <!img height=140em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&layout=compact&theme=merko"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Amorim&layout=compact&theme=dark)
   
 <div style="display: inline_block"><br>
   <img align="left" alt="Arthur-Js" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
